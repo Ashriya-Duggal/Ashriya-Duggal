@@ -1,5 +1,4 @@
-
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyxiTTQQvCO_7dLMCc-dlEKtlexRN1oIxdw&usqp=CAU)]
+![MasterHead](mern-light-banner.jpg)
 <h1 align="center">Hi 👋, I'm Ashriya Duggal</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
